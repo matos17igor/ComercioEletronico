@@ -1,0 +1,12 @@
+com\mycompany\comercioeletronico\models\Alimentos.class
+com\mycompany\comercioeletronico\models\Roupas.class
+com\mycompany\comercioeletronico\models\Eletronicos.class
+com\mycompany\comercioeletronico\models\Vendas.class
+com\mycompany\comercioeletronico\models\Cupom.class
+com\mycompany\comercioeletronico\models\CupomValorMinimo.class
+com\mycompany\comercioeletronico\reports\Relatorio.class
+com\mycompany\comercioeletronico\services\GestorVendas.class
+com\mycompany\comercioeletronico\main\ComercioEletronico.class
+com\mycompany\comercioeletronico\exceptions\CupomInvalidoException.class
+com\mycompany\comercioeletronico\models\CupomQuantidadeLimitada.class
+com\mycompany\comercioeletronico\models\Produto.class
